@@ -2,6 +2,8 @@
 This example shows how to create a random password generator using multiple languages and deploy it to the cloud.
 In this example project we are using Python and NodeJS along with [Metacall](https://github.com/metacall) to run the application.
 
+You can find more details in this [blog](https://medium.com/@mostafawael/make-your-first-polyglot-project-using-metacall-40e6b3333f36). 
+
 ## Instructions
 1. Install `metacall`: 
    - `curl -sL https://raw.githubusercontent.com/metacall/install/master/install.sh | sh`
